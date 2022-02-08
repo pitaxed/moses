@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "moses:slow_water",
+    "moses:slow_flowing_water"
+  ]
+}

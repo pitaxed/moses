@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "moses:block/slow_water"
+    }
+  }
+}
